@@ -1,0 +1,14 @@
+h1+p{
+    background-color: rgb(221, 125, 248);
+    border: 2px solid ;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    background: rgb(230, 83, 83);
+    color: black;
+}
+ ul li:nth-child(3n+1){ /* formula->an+b*/
+    background-color: aqua;
+}

@@ -1,0 +1,108 @@
+{
+    "feelings_of_unsafety": {
+        "expressing_concern_OR_fear": [
+            "I don't feel safe right now.",
+            "This vibe is off.",
+            "I’m getting some bad energy from this place.",
+            "I’m feeling uneasy.",
+            "This is giving me the creeps.",
+            "I’m not okay with how you’re acting",
+            "I'm not comfortable here.",
+            "I’m really uneasy about this.",
+            "I’m scared right now.",
+            "I’m really worried about my safety.",
+            "I feel like I’m in danger.",
+            "Yaar, mujhe thoda dar lag raha hai.",
+            "Mujhe abhi safe nahi feel ho raha.",
+            "Mujhe thoda uneasy feel ho raha hai.",
+            "Main yahan comfortable nahi hoon.",
+            "Mujhe abhi dar lag raha hai.",
+            "Mujhe aisa lag raha hai jaise main khatre mein hoon.",
+            "Mujhe teri harkate bilkul theek nahi lag rahi."
+        ],
+        "Intimadation_Harassment":[
+            "Your behavior is crossing the line.",
+            "I don’t like the way you’re looking at me.",
+            "This isn’t okay; it feels threatening.",
+            "I feel harassed by what you’re doing.",
+            "you’re making me uncomfortable.",
+            "I will report this if it continues.",
+            "I feel like you’re invading my privacy.",
+            "Tera behavior hadd cross kar raha hai.",
+            "Aap mujhe aise kyu ghoor rhe ho.",
+            "Yeh theek nahi hai",
+            "mujhe uncomfortable feel ho raha hai."
+
+        ],
+        "seeking_help": [
+            "Yo, I need backup!",
+            "Can you call someone? This is sketchy.",
+            "I feel super unsafe, can you stay with me?",
+            "I’m not cool with this, can you help me out?",
+            "Please, I need help!",
+            "I feel threatened, please stay with me.",
+            "Can we find a safe spot?",
+            "I feel like I need someone to walk with me.",
+            "kya tum meri madad kar sakte ho?",
+            "Please, mujhe help chahiye!"
+        ],
+        "asserting_boundaries": [
+            "Back off, dude!",
+            "Please back off!",
+            "I’m not in the mood to chat.",
+            "I don't want to talk to you.",
+            "I don’t appreciate your attitude.",
+            "Stop creeping me out.",
+            "Stop following me.",
+            "Stop right there"
+        ],
+        "reporting_threat": [
+            "I need to report some shady stuff.",
+            "I need to report something suspicious.",
+            "Someone's following me, for real.",
+            "This place feels hella unsafe.",
+            "I feel unsafe in this area."
+        ]
+    },
+    "emergency_responses": {
+        "calling_for_help": [
+            "I'm calling the cops.",
+            "Can someone hit up emergency services?",
+            "I need an escort to my ride.",
+            "I need assistance immediately!",
+            "I feel threatened; can you get someone here fast?",
+            "I’m in a situation where I need help immediately."
+        ],
+        "alerting_others": [
+            "Hey everyone, heads up!",
+            "please be aware!",
+            "There’s some sketchy stuff going on.",
+            "Stick together and stay alert.",
+            "There is a potential threat here.",
+            "Stay close and be careful."
+        ]
+    },
+    "personal_safety_statements": {
+        "taking_precautions": [
+            "I should find a safe spot.",
+            "Gotta avoid dark alleys.",
+            "I need to keep my phone on blast.",
+            "Let’s stick to well-lit areas; I’m not taking any chances.",
+            "I’m gonna keep my head on a swivel; gotta stay alert.",
+            "I’m going to stay alert.",
+            "My instincts are telling me to be cautious."
+        ]
+    },
+    "assertions": {
+        "warning_threats": [
+            "I won’t tolerate this nonsense.",
+            "This is totally unacceptable!",
+            "I have every right to feel safe.",
+            "Guys, I don’t trust this situation.",
+            "Hey, something doesn’t feel right.",
+            "I’m feeling uncomfortable, we should go.",
+            "Let’s not stick around here."
+
+        ]
+    }
+}

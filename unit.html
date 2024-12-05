@@ -1,0 +1,42 @@
+ <!-- unit
+  1.relative                                 2.absolute
+  vh-(view height--work wrt body part)
+  vw-(view width)
+  %-parent
+  em-parent 1em=font size of parent
+  rem=root element element(1rem=16px)
+  
+
+
+  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        h1::after{
+
+        }
+        .container{
+            border: 3px solid black;
+            height: 25vh;
+            width: 50vw;
+
+        }
+        .child{
+            border: 3px solid green;
+            height: 50%;
+            width: 50%;
+        }
+    </style>
+<body>
+    <div class="container">
+        <div class="child">
+            
+        </div>
+    </div>
+</body>
+</html>  

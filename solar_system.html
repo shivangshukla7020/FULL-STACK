@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style> 
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: 100vh;
+    width: 100vw;
+
+}
+.sun{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 200px;
+    border-radius: 50%;
+    background-image: linear-gradient(to left,rgb(255, 225, 0),orange);
+}
+.orbit1{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    animation-name:solar ;
+    animation-timing-function: ease;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function:ease-in-out;
+}
+.planet{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    border-radius:50% ;
+    position: relative;
+    top:35px;
+    background-image:  linear-gradient(to left,rgb(0, 77, 128),aqua);
+}
+/* .orbit2{
+    border: 2px solid black;
+    height: 450px;
+    width: 450px;
+} */
+ @keyframes  solar{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+    
+ }
+    </style>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <div class="container">
+        <div class="sun"></div>
+        <div class="orbit1">
+            <div class="planet"></div>
+        </div>
+        <!-- <div class="orbit2"></div> -->
+    </div>
+
+    
+    
+</body>
+</html>

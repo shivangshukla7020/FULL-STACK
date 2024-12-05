@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.container{
+    width: 30vw;
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px black solid;
+    gap: 8px 8px;
+    padding: 10px; 
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px black solid;
+    grid-column: 1 / span 3;
+}
+#output input{
+    width: 100%;
+    height: 100%;
+    padding: 6px;
+}
+.btnc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    grid-column: 1 / span 3;
+
+}
